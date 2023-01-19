@@ -11,6 +11,8 @@ If you can't answer our question you'll lose points.
 To start you'll be given 3 chances respresenting your life.
 You have also some bonus points hidden in the levels.
 You'll get them for each correct answer.
+
+
 """
 
 def game_start(start_string):
