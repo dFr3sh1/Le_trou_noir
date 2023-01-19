@@ -1,4 +1,12 @@
 import random
+#appel d'une version colorée de print
+from rich import print
+score = 0
+health = 50
+
+
+
+
 
 # Dictionnaire principal pour notre jeu, contenant des listes pour les réponses
 questions_dictionnary = {
@@ -29,15 +37,15 @@ response_dictionnary = {
 }
 
 # Liste de mots pour la réussite du joueur
-felicitations_quotes = ['Bravo !', 'Excellent !', 'Quel génie !', 'Quel talent !',
-                        "C'est une prouesse incroyable, tu es un véritable érudit"]
+felicitations_quotes = ['[bold green]Bravo !', '[bold green]Excellent !', '[bold green]Quel génie !', '[bold green]Quel talent !',
+                        "[bold green]C'est une prouesse incroyable, tu es un véritable érudit"]
 
 # Un dictionnaire pour sauvegarder les réponses du joueur
 save_player_answer = {}
 
 # Définition des attributs du joueur
-score = 0
-health = 100
+# score = 0
+# health = 50
 
 def question_launcher(question_key):
     """
@@ -54,22 +62,24 @@ def question_launcher(question_key):
     for i, propositions in enumerate(question["propositions"]):
         print(f"{i + 1}. {propositions}")
     user_answer = input("Entrez le chiffre associé à la proposition de votre choix : ")
+    
 
     if question["propositions"][int(user_answer) - 1] == question["good_response"]:
 
         print(felicitations_quotes[random.randrange(0, 4)])
         score += random.randint(1, 5)
-        print(f"Votre score est de {score} et votre santé est de {health}")
-
+        print(f"[green]Votre score est de {score} et votre santé est de {health}")
+           
+    
     elif question["propositions"][int(user_answer) - 1] != question["good_response"]:
 
-        print("Ah ah ah")
+        print("[bold red]Ah! ah! ah!")
         health -= random.randint(4, 11)
         if health <= 0:
             print("*\------------------------------/*")
-            print("Perdu. T'es nul.le.")
+            print("[bold italic yellow on red blink]LOOOSER !!!")
             exit()
-        print(f"Votre score est de {score} et votre santé est de {health}")
+        print(f"[italic red]Votre score est de {score} et votre santé est de {health}")
 
 
 

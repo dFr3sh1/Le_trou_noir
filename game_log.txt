@@ -1,0 +1,296 @@
+Score: 0
+Santé: 93
+Bonjour ?: 2 (Mauvaise réponse), la bonne réponse était :  Oui
+*\------------------------------/* 
+Score: 0
+Santé: 87
+Bonjour ?: 2 (Mauvaise réponse), la bonne réponse était :  Oui
+*\------------------------------/* 
+Qui était l'architecte ou le constructeur principal de ce temple ?: 3 (Mauvaise réponse), la bonne réponse était :  Un roi
+*\------------------------------/* 
+Score: 1
+Santé: 87
+Bonjour ?: 2 (Mauvaise réponse), la bonne réponse était :  Oui
+*\------------------------------/* 
+Qui était l'architecte ou le constructeur principal de ce temple ?: 3 (Mauvaise réponse), la bonne réponse était :  Un roi
+*\------------------------------/* 
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Score: 4
+Santé: 100
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Score: 4
+Santé: 96
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Bonjour ?: 2 (Mauvaise réponse), la bonne réponse était :  Oui
+*\------------------------------/* 
+Score: 5
+Santé: 96
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Bonjour ?: 2 (Mauvaise réponse), la bonne réponse était :  Oui
+*\------------------------------/* 
+Score: 8
+Santé: 96
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Bonjour ?: 2 (Mauvaise réponse), la bonne réponse était :  Oui
+*\------------------------------/* 
+Qui était l'architecte ou le constructeur principal de ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Score: 8
+Santé: 92
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Bonjour ?: 2 (Mauvaise réponse), la bonne réponse était :  Oui
+*\------------------------------/* 
+Qui était l'architecte ou le constructeur principal de ce temple ?: 3 (Mauvaise réponse), la bonne réponse était :  Un roi
+*\------------------------------/* 
+Score: 0
+Santé: 42
+À quoi était consacré ce temple ?: 2 (Mauvaise réponse), la bonne réponse était :  A toi
+*\------------------------------/* 
+Score: 0
+Santé: 33
+À quoi était consacré ce temple ?: 2 (Mauvaise réponse), la bonne réponse était :  A toi
+*\------------------------------/* 
+Bonjour ?: 3 (Mauvaise réponse), la bonne réponse était :  Oui
+*\------------------------------/* 
+Score: 1
+Santé: 33
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Bonjour ?: 3 (Mauvaise réponse), la bonne réponse était :  Oui
+*\------------------------------/* 
+Score: 1
+Santé: 25
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Bonjour ?: 2 (Mauvaise réponse), la bonne réponse était :  Oui
+*\------------------------------/* 
+Score: 5
+Santé: 25
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Bonjour ?: 2 (Mauvaise réponse), la bonne réponse était :  Oui
+*\------------------------------/* 
+Score: 7
+Santé: 25
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Bonjour ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Score: 10
+Santé: 25
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Bonjour ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Quand a été construit ce temple ?: 4 (Bonne réponse)
+*\------------------------------/* 
+Score: 14
+Santé: 25
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Bonjour ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Quand a été construit ce temple ?: 4 (Bonne réponse)
+*\------------------------------/* 
+Score: 18
+Santé: 25
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Bonjour ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Quand a été construit ce temple ?: 4 (Bonne réponse)
+*\------------------------------/* 
+Score: 18
+Santé: 17
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Bonjour ?: 2 (Mauvaise réponse), la bonne réponse était :  Oui
+*\------------------------------/* 
+Quand a été construit ce temple ?: 4 (Bonne réponse)
+*\------------------------------/* 
+Score: 18
+Santé: 9
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Bonjour ?: 2 (Mauvaise réponse), la bonne réponse était :  Oui
+*\------------------------------/* 
+Quand a été construit ce temple ?: 1 (Mauvaise réponse), la bonne réponse était :  Il vient d'être construit
+*\------------------------------/* 
+Score: 18
+Santé: 2
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Bonjour ?: 2 (Mauvaise réponse), la bonne réponse était :  Oui
+*\------------------------------/* 
+Quand a été construit ce temple ?: 1 (Mauvaise réponse), la bonne réponse était :  Il vient d'être construit
+*\------------------------------/* 
+Score: 0
+Santé: 41
+Quand a été construit ce temple ?: 1 (Mauvaise réponse), la bonne réponse était :  Il vient d'être construit
+*\------------------------------/* 
+Score: 2
+Santé: 41
+Quand a été construit ce temple ?: 1 (Mauvaise réponse), la bonne réponse était :  Il vient d'être construit
+*\------------------------------/* 
+Qui était l'architecte ou le constructeur principal de ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Score: 5
+Santé: 41
+Quand a été construit ce temple ?: 1 (Mauvaise réponse), la bonne réponse était :  Il vient d'être construit
+*\------------------------------/* 
+Qui était l'architecte ou le constructeur principal de ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Score: 10
+Santé: 41
+Quand a été construit ce temple ?: 4 (Bonne réponse)
+*\------------------------------/* 
+Qui était l'architecte ou le constructeur principal de ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Score: 11
+Santé: 41
+Quand a été construit ce temple ?: 4 (Bonne réponse)
+*\------------------------------/* 
+Qui était l'architecte ou le constructeur principal de ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Score: 14
+Santé: 41
+Quand a été construit ce temple ?: 4 (Bonne réponse)
+*\------------------------------/* 
+Qui était l'architecte ou le constructeur principal de ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Score: 19
+Santé: 41
+Quand a été construit ce temple ?: 4 (Bonne réponse)
+*\------------------------------/* 
+Qui était l'architecte ou le constructeur principal de ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Score: 20
+Santé: 41
+Quand a été construit ce temple ?: 4 (Bonne réponse)
+*\------------------------------/* 
+Qui était l'architecte ou le constructeur principal de ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Score: 25
+Santé: 41
+Quand a été construit ce temple ?: 4 (Bonne réponse)
+*\------------------------------/* 
+Qui était l'architecte ou le constructeur principal de ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Score: 28
+Santé: 41
+Quand a été construit ce temple ?: 4 (Bonne réponse)
+*\------------------------------/* 
+Qui était l'architecte ou le constructeur principal de ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Score: 30
+Santé: 41
+Quand a été construit ce temple ?: 4 (Bonne réponse)
+*\------------------------------/* 
+Qui était l'architecte ou le constructeur principal de ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Score: 30
+Santé: 35
+Quand a été construit ce temple ?: 4 (Bonne réponse)
+*\------------------------------/* 
+Qui était l'architecte ou le constructeur principal de ce temple ?: 2 (Mauvaise réponse), la bonne réponse était :  Un roi
+*\------------------------------/* 
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Score: 33
+Santé: 35
+Quand a été construit ce temple ?: 4 (Bonne réponse)
+*\------------------------------/* 
+Qui était l'architecte ou le constructeur principal de ce temple ?: 2 (Mauvaise réponse), la bonne réponse était :  Un roi
+*\------------------------------/* 
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Score: 34
+Santé: 35
+Quand a été construit ce temple ?: 4 (Bonne réponse)
+*\------------------------------/* 
+Qui était l'architecte ou le constructeur principal de ce temple ?: 2 (Mauvaise réponse), la bonne réponse était :  Un roi
+*\------------------------------/* 
+À quoi était consacré ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Score: 4
+Santé: 50
+Qui était l'architecte ou le constructeur principal de ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Score: 2
+Santé: 50
+Qui était l'architecte ou le constructeur principal de ce temple ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Score: 4
+Santé: 50
+Bonjour ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Score: 4
+Santé: 41
+Bonjour ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Qui était l'architecte ou le constructeur principal de ce temple ?: 2 (Mauvaise réponse), la bonne réponse était :  Un roi
+*\------------------------------/* 
+Score: 4
+Santé: 34
+Bonjour ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Qui était l'architecte ou le constructeur principal de ce temple ?: 2 (Mauvaise réponse), la bonne réponse était :  Un roi
+*\------------------------------/* 
+Score: 4
+Santé: 28
+Bonjour ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Qui était l'architecte ou le constructeur principal de ce temple ?: 2 (Mauvaise réponse), la bonne réponse était :  Un roi
+*\------------------------------/* 
+Score: 4
+Santé: 20
+Bonjour ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Qui était l'architecte ou le constructeur principal de ce temple ?: 2 (Mauvaise réponse), la bonne réponse était :  Un roi
+*\------------------------------/* 
+Quand a été construit ce temple ?: 2 (Mauvaise réponse), la bonne réponse était :  Il vient d'être construit
+*\------------------------------/* 
+Score: 4
+Santé: 15
+Bonjour ?: 1 (Bonne réponse)
+*\------------------------------/* 
+Qui était l'architecte ou le constructeur principal de ce temple ?: 2 (Mauvaise réponse), la bonne réponse était :  Un roi
+*\------------------------------/* 
+Quand a été construit ce temple ?: 2 (Mauvaise réponse), la bonne réponse était :  Il vient d'être construit
+*\------------------------------/* 
+À quoi était consacré ce temple ?: 2 (Mauvaise réponse), la bonne réponse était :  A toi
+*\------------------------------/* 
+Score: 4
+Santé: 4
+Bonjour ?: 2 (Mauvaise réponse), la bonne réponse était :  Oui
+*\------------------------------/* 
+Qui était l'architecte ou le constructeur principal de ce temple ?: 2 (Mauvaise réponse), la bonne réponse était :  Un roi
+*\------------------------------/* 
+Quand a été construit ce temple ?: 2 (Mauvaise réponse), la bonne réponse était :  Il vient d'être construit
+*\------------------------------/* 
+À quoi était consacré ce temple ?: 2 (Mauvaise réponse), la bonne réponse était :  A toi
+*\------------------------------/* 
