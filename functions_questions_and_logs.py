@@ -39,7 +39,7 @@ save_player_answer = {}
 score = 0
 health = 100
 
-def qcm_game(question_key):
+def question_launcher(question_key):
     """
     :param question_key: Take the keys from the dictionary questions.
     :type question_key: dict & str
@@ -88,6 +88,6 @@ def save_logs():
 # sélectionne une question aléatoirement
 random_question = random.choice(list(questions_dictionnary.keys()))
 # On lance alors le jeu qui va lancer des questions aléatoirement
-qcm_game(random_question)
+question_launcher(random_question)
 # On sauvegarde les actions du joueur
 save_logs()
