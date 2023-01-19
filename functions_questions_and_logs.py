@@ -47,7 +47,7 @@ def question_launcher(question_key):
     :rtype:
     """
 
-    global score, health
+    global score, health # Le statement `global`, permet d'appeler des variables déclarer hors de la fonction.
 
     question = questions_dictionnary[question_key]
     print(question_key)
