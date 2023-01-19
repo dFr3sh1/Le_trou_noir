@@ -37,7 +37,7 @@ save_player_answer = {}
 
 # Définition des attributs du joueur
 score = 0
-health = 100
+health = 40
 
 def question_launcher(question_key):
     """
@@ -65,9 +65,10 @@ def question_launcher(question_key):
 
         print("Ah ah ah")
         health -= random.randint(4, 11)
-        if health == 0:
-            print("Perdu.")
-
+        if health <= 0:
+            print("*\------------------------------/*")
+            print("Perdu. T'es nul.le.")
+            exit()
         print(f"Votre score est de {score} et votre santé est de {health}")
 
 

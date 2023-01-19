@@ -56,7 +56,7 @@ save_player_answer = {}
 
 # Définition des attributs du joueur
 score = 0
-health = 100
+health = 40
 
 
 
