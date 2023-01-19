@@ -1,4 +1,4 @@
-import time, pygame
+import time
 from pygame import mixer
 
 
@@ -14,6 +14,13 @@ You'll get them for each correct answer.
 """
 
 def game_start(start_string):
+    """
+    :param start_string: Prend une variable string.
+    :type start_string: str
+    :return: Retourne une string d'introduction au jeu.
+    :rtype: str
+    """
+
     mixer.init()
     mixer.music.load("Dossier_tools/typewriterSoundEffect.mp3")
     mixer.music.play(loops=2)
@@ -24,5 +31,3 @@ def game_start(start_string):
         time.sleep(0.03)
     
     mixer.music.stop()
-        
-game_start(start_string)

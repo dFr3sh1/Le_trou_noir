@@ -37,7 +37,7 @@ save_player_answer = {}
 
 # Définition des attributs du joueur
 score = 0
-health = 40
+health = 100
 
 def question_launcher(question_key):
     """
@@ -92,11 +92,3 @@ def save_logs():
                 fichier.write(" (Bonne réponse)\n*\------------------------------/* \n")
             else:
                 fichier.write(f" (Mauvaise réponse), la bonne réponse était :  {response_dictionnary.get(question_key)}\n*\------------------------------/* \n")
-
-
-# sélectionne une question aléatoirement
-#random_question = random.choice(list(questions_dictionnary.keys()))
-# On lance alors le jeu qui va lancer des questions aléatoirement
-#question_launcher(random_question)
-# On sauvegarde les actions du joueur
-#save_logs()
