@@ -56,15 +56,23 @@ def question_launcher(question_key):
     user_answer = input("Entrez le chiffre associé à la proposition de votre choix : ")
 
     if question["propositions"][int(user_answer) - 1] == question["good_response"]:
+
         print(felicitations_quotes[random.randrange(0, 4)])
         score += random.randint(1, 5)
         print(f"Votre score est de {score} et votre santé est de {health}")
-    else:
+
+    elif question["propositions"][int(user_answer) - 1] != question["good_response"]:
+
         print("Ah ah ah")
         health -= random.randint(4, 11)
+        if health == 0:
+            print("Perdu.")
+
         print(f"Votre score est de {score} et votre santé est de {health}")
+
+
+
     save_player_answer[question_key] = user_answer
-    print(f"Votre score est de {score} et votre santé est de {health}.")
 
 
 
@@ -86,8 +94,8 @@ def save_logs():
 
 
 # sélectionne une question aléatoirement
-random_question = random.choice(list(questions_dictionnary.keys()))
+#random_question = random.choice(list(questions_dictionnary.keys()))
 # On lance alors le jeu qui va lancer des questions aléatoirement
-question_launcher(random_question)
+#question_launcher(random_question)
 # On sauvegarde les actions du joueur
-save_logs()
+#save_logs()
