@@ -121,8 +121,13 @@ def question_launcher(question_key, score, health):
     for i, propositions in enumerate(question["propositions"]):
         print(f"{i + 1}. {propositions}")
     user_answer = input("Entrez le chiffre associé à la proposition de votre choix : ")
+    # To avoid invalid input 
+    while user_answer not in ["1","2","3","4"]:
+        print("Entrez un chiffre entre 1 et 4 pour sélectionner une réponse")
+        user_answer = input("Entrez le chiffre associé à la proposition de votre choix : ")
 
     if question["propositions"][int(user_answer) - 1] == question["good_response"]:
+        
 
         print(felicitations_quotes[random.randrange(0, 4)])
         score += random.randint(2, 5)
@@ -193,3 +198,9 @@ def save_logs(score, health):
 
             else:
                 fichier.write(f"\n[/!\---Mauvaise réponse---/!\] --> {question_key} votre réponse : {questions_dictionnary[question_key]['propositions'][int(user_answer) - 1]} \nLa bonne réponse était: {questions_dictionnary[question_key]['good_response']}\n*\------------------------------/*\n")
+
+# Function to avoid to repeat the same function several times
+def question_key(key_list):
+    a = random.choice(key_list)
+    key_list.remove(a)
+    return a 
