@@ -147,7 +147,7 @@ def question_launcher(question_key, score, health):
         time.sleep(3)
         os.system("clear")
 
-    elif question["propositions"][int(user_answer) - 1] != question["good_response"]:
+    else:
 
         print(jokes_quotes[random.randrange(0, 7)])
         health -= random.randint(4, 11)
