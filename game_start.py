@@ -4,13 +4,14 @@ from pygame import mixer
 
 # Script de départ du jeu
 start_string = """
-Hello soldier welcome to the black hole Game.
-your spaceship was lost in space, to get back to earth you have to answer some questions.
-At each level we'll give you a question to answer.
-If you can't answer our question you'll lose points.
-To start you'll be given 3 chances respresenting your life.
-You have also some bonus points hidden in the levels.
-You'll get them for each correct answer.
+Vous êtes devant votre bol de céréales, 
+soudainement, vous êtes aspiré dans un trou noir que forme vos chocapics,
+vous tombez sans cesse,
+l'ennui vous gagne, 
+heureusement qu'une voix vous donne des énigmes pour passer le temps...
+Mais peut-être que tout ça à un sens...
+
+
 
 
 """
