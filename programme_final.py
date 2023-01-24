@@ -2,7 +2,7 @@ import random
 import time
 import os
 from game_start import game_start, start_string
-from functions_questions_and_logs import question_launcher, save_logs, questions_dictionnary
+from functions_questions_and_logs import question_launcher, save_logs, questions_dictionnary, question_key
 from initiate_game import loading_game
 from loading_main_system import loading_main_question
 
@@ -12,6 +12,7 @@ from pygame import mixer
 
 mon_score = 0
 ma_health = 50
+key_list = list(questions_dictionnary.keys())
 line = "\n*\---------------------------------------------------------------/*\n"
 
 os.system("clear")
@@ -23,17 +24,18 @@ loading_main_question()
 
 
 while True:
-    f = Figlet(font="slant")
-    print(f.renderText("BLACK HOLE"))
 
-    mixer.init()
-    mixer.music.load("Dossier_tools/power-down-7103.mp3")
-    mixer.music.play(1, 0, 0)
+        f = Figlet(font="slant")
+        print(f.renderText("BLACK HOLE"))
 
-    for characters in line:
-        print(characters, end=" ")
-        time.sleep(0.03)
+        mixer.init()
+        mixer.music.load("Dossier_tools/power-down-7103.mp3")
+        mixer.music.play(1, 0, 0)
 
-    mon_score, ma_health = question_launcher(random.choice(list(questions_dictionnary.keys())), mon_score, ma_health)
+        for characters in line:
+            print(characters, end=" ")
+            time.sleep(0.03)
 
-    save_logs(mon_score, ma_health)
+        
+        mon_score, ma_health = question_launcher(question_key(key_list), mon_score, ma_health)
+        save_logs(mon_score, ma_health)
